@@ -2,7 +2,8 @@
 ## sub titulos
 Texto
 ```py
-def function()
+def fun1:
+  print('Hello World')
 ```
 - [ ] Primer item
 - [ ] Segundo item
